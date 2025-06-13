@@ -35,7 +35,7 @@ USER_NAME = "itudou"         # 用户名
 UUID = "bb847d1d-3b51-4ac7-84dc-a6e12b29cdff"                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
 DOMAIN = "highsky.dpdns.org"                   # 域名，留空则自动获取
-CF_TOKEN =                 # Cloudflare Token，留空则用Quick Tunnel
+CF_TOKEN = "-2wpuKaI9KrYOdrX_WN_y66ltdjK6KK12CI1UDpW"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
